@@ -1,10 +1,10 @@
-module github.com/krakendio/krakend-flexibleconfig/v2
+module github.com/davron112/krakend-flexibleconfig/v2
 
 go 1.20
 
 require (
 	github.com/Masterminds/sprig/v3 v3.2.3
-	github.com/luraproject/lura/v2 v2.3.0
+	github.com/davron112/lura/v2 v2.3.0
 )
 
 require (
