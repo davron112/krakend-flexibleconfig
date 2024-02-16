@@ -12,6 +12,7 @@ import (
 	"strings"
 	"text/template"
 
+	"github.com/Masterminds/sprig/v3"
 	"github.com/davron112/lura/v2/config"
 )
 
